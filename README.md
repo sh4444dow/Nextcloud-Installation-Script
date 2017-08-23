@@ -27,7 +27,7 @@ Download or clone this repository.
 
 After that, set +x to the script and run it:
 ```
-wget https://git.io/nextcloud -O nextcloud-install.sh && bash nextcloud-install.sh
+wget https://git.io/nextcloud --no-check-certificate -O nextcloud-install.sh && bash nextcloud-install.sh
 ```
 
 ## Usage of script arguments
