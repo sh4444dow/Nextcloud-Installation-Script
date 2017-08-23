@@ -27,8 +27,7 @@ Download or clone this repository.
 
 After that, set +x to the script and run it:
 ```
-chmod +x ./nc_install.sh
-./nc_install.sh
+wget https://git.io/nextcloud -O nextcloud-install.sh && bash nextcloud-install.sh
 ```
 
 ## Usage of script arguments
