@@ -23,9 +23,6 @@ Now let the script do it's work.
 That's it! Once it's done, visit your website and enjoy Nextcloud!
 
 # Usage
-Download or clone this repository.
-
-After that, set +x to the script and run it:
 ```
 wget https://git.io/nextcloud --no-check-certificate -O nextcloud-install.sh && bash nextcloud-install.sh
 ```
